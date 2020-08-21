@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Deploying Web Application using docker Container Automatic using ansible as CI/CD pipeline successfully chdir..  </h2>
+<h2> Deploying Web Application using docker container and pod version 1.0  </h2>
 </body>
 </html>
